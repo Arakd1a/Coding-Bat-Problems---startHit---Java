@@ -1,2 +1,6 @@
-# Coding-Bat-Problems---startHit---Java
-Coding Bat Problems - startHit - Java
+
+Given a string, return true if the string starts with "hi" and false otherwise.
+
+startHi("hi there") → true
+startHi("hi") → true
+startHi("hello hi") → false
